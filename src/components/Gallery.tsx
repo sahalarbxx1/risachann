@@ -2,16 +2,16 @@ import { motion } from 'motion/react';
 
 const photos = [
   {
-    url: 'https://picsum.photos/seed/risa1/600/800',
-    caption: 'Momen Indah 1'
+    url: 'https://i.postimg.cc/3Rdz30Yc/Screenshot-20251205-144911-Whats-App-1.png',
+    caption: 'huahaha'
   },
   {
-    url: 'https://picsum.photos/seed/risa2/600/800',
-    caption: 'Momen Indah 2'
+    url: 'https://i.postimg.cc/gk8FwhRM/Screenshot-20251229-020723-Whats-App-1.png',
+    caption: 'huuuu'
   },
   {
-    url: 'https://picsum.photos/seed/risa3/600/800',
-    caption: 'Momen Indah 3'
+    url: 'https://i.postimg.cc/FF6nVKNS/Screenshot-20251212-174350-Whats-App-1.png',
+    caption: 'wakakakkaa'
   }
 ];
 
